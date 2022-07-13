@@ -10,6 +10,7 @@ public class ex06 {
 		int sum=0;
 		int tmp = input;
 		for(int i=0; i<8;i++) {
+			//입력값의 1의자리를 sum에 넣어 더하기 위함
 			sum += tmp%10;
 			tmp = tmp/10;
 		}
