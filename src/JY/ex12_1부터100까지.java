@@ -1,3 +1,4 @@
+package JY;
 
 public class ex12_1부터100까지 {
 	public static void main(String[] args) {

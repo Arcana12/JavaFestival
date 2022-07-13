@@ -1,3 +1,4 @@
+package JY;
 
 
 public class ex08_두수의차가제일작은값 {

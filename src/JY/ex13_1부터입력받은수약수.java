@@ -1,3 +1,4 @@
+package JY;
 import java.util.Scanner;
 
 public class ex13_1부터입력받은수약수 {

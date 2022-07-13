@@ -1,4 +1,4 @@
-
+package JY;
 public class ex19_77 {
 	public static void main(String[] args) {
 		int n= 77;

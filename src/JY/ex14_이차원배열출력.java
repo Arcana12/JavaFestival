@@ -1,3 +1,4 @@
+package JY;
 import java.util.Scanner;
 
 public class ex14_이차원배열출력 {

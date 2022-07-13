@@ -1,3 +1,4 @@
+package JY;
 
 
 public class ex09_두정수의나눗셈 {

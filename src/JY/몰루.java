@@ -1,4 +1,4 @@
-
+package JY;
 public class 몰루 {
 	public static void main(String[] args) {
 		

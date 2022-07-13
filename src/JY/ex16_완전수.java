@@ -1,3 +1,4 @@
+package JY;
 
 public class ex16_완전수 {
 	public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package JY;
 import java.util.Scanner;
 
 public class ex18_입력정수총합 {

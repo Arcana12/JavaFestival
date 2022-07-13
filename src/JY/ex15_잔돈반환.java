@@ -1,3 +1,4 @@
+package JY;
 import java.util.Scanner;
 
 public class ex15_잔돈반환 {
