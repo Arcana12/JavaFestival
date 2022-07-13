@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class ex01_10의자리버리기 {
