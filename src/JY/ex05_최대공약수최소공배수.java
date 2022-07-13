@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class ex05_최대공약수최소공배수 {

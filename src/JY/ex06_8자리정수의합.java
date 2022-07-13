@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class ex06_8자리정수의합 {

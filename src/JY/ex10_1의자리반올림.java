@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class ex10_1의자리반올림 {

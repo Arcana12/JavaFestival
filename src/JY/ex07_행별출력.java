@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class ex07_행별출력 {

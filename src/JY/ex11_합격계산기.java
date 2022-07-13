@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class ex11_합격계산기 {

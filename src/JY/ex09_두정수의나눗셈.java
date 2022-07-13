@@ -1,4 +1,5 @@
 
+
 public class ex09_두정수의나눗셈 {
 	public static void main(String[] args) {
 		int a= 10;

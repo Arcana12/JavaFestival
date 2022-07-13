@@ -1,4 +1,5 @@
 
+
 public class ex08_두수의차가제일작은값 {
 	public static void main(String[] args) {
 		int[] point = {92,32,52,9,8,2,68};
