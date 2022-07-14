@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex14_이차원배열출력 {
+public class ex30_25까지이차원배열 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
@@ -11,16 +11,9 @@ public class ex14_이차원배열출력 {
 		
 		for(int i=0; i<arr.length; i++) { //가로행
 			for(int j=0; j<arr.length; j++) { //세로열
-				arr[j][i]=cnt++;
-			}
-		}
-		
-		//출력문
-		for(int i=0; i<arr.length; i++) { //가로행
-			for(int j=0; j<arr.length; j++) { //세로열
-				System.out.print(arr[i][j]+"\t");
+				System.out.print((arr[i][j]=cnt++)+"\t");
 			}
 			System.out.println();
 		}
-	}//main end
+	}
 }
