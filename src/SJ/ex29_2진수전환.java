@@ -12,7 +12,7 @@ public class ex29_2진수전환 {
 		int[] binery=new int[10];   //이진수 담을 배열
 		int i =0;    //인덱스 몇까지 저장되는지 알기 위해서
 		while(input>=1) {          //나누는 몫이 1이 될때 까지
-			binery[i]=input%2;     //
+			binery[i]=input%2;     //나머지를 배열에 저장
 			i++;
 			input/=2;
 		}
