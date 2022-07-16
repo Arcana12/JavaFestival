@@ -21,5 +21,4 @@ public class ex28_로또추첨기 {
 			System.out.println("행운의숫자 : " + lotto[i]);
 		}
 	}
-
 }

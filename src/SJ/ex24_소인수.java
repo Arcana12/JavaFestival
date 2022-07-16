@@ -22,5 +22,4 @@ public class ex24_소인수 {
 			}
 		}
 	}
-
 }

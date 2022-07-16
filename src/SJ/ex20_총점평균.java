@@ -25,5 +25,4 @@ public class ex20_총점평균 {
 		System.out.println("sum : "+ sum);
 		System.out.println("avg : "+ avg);
 	}
-
 }

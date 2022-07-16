@@ -10,5 +10,4 @@ public class ex19_77곱하기 {
 		}
 		System.out.println(sum);
 	}
-
 }

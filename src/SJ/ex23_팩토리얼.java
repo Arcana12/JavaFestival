@@ -15,5 +15,4 @@ public class ex23_팩토리얼 {
 		}
 		System.out.println("출력 : "+hap);
 	}
-
 }

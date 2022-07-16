@@ -20,5 +20,4 @@ public class ex27_별찍기 {
 			System.out.println();
 		}
 	}
-
 }

@@ -20,5 +20,4 @@ public class ex29_2진수전환 {
 		System.out.print(binery[s]+" ");
 		}
 	}
-
 }

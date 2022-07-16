@@ -23,5 +23,4 @@ public class ex30_정수배열 {
 			System.out.println();
 		}
 	}
-
 }

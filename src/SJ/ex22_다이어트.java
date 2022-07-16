@@ -21,5 +21,4 @@ public class ex22_다이어트 {
 		}
 		System.out.println((i-1)+"주차 다이어트 성공!!!");
 	}
-
 }

@@ -14,8 +14,6 @@ public class ex21_약수구하기 {
 			if(num%i==0) {
 				System.out.print(i+" ");
 			}
-		}
-		
+		}		
 	}
-
 }

@@ -16,5 +16,4 @@ public class ex17_마트계산대 {
 			System.out.println("가격은 "+num*10000+"원 입니다.");
 		}
 	}
-
 }
