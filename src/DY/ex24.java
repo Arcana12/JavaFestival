@@ -8,19 +8,7 @@ public class ex24 {
 		int a = sc.nextInt();
 		
 		System.out.print(a+" = ");
-//		while (a!=1) {
-//			for(int i =2;i<=a;i++) {
-//				if(a==i) {
-//					System.out.println(i);
-//					a=a/i;
-//				}	
-//				else if(a%i==0) {
-//					System.out.print(i+"*");
-//					a=a/i;
-//					break;
-//				}
-//			}
-//		}
+
 		
 		while(a != 1) {
 			for(int i = 2; i <= a; i++) {
