@@ -12,6 +12,8 @@ public class ex01_10의자리버리기 {
 		if (num>=100) {
 			num = (num/100)*100;
 			System.out.println("결과 : "+ num);
+		}else {
+			System.out.println("100미만의 수 입니다.");
 		}
 	}
 }
