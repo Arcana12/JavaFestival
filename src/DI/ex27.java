@@ -15,7 +15,6 @@ public class ex27 {
 			arr[i] = sc.nextInt();
 		}
 		
-		
 		for(int i = 0; i<arr.length;i++) {
 			System.out.print(arr[i]+" : ");
 			for(int j = 0;j<arr[i];j++) {

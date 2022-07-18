@@ -1,3 +1,5 @@
+package JY;
+
 import java.util.Scanner;
 
 public class ex24_소인수분해 {

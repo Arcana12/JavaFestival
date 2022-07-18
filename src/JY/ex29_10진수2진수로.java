@@ -1,3 +1,5 @@
+package JY;
+
 import java.util.Scanner;
 
 public class ex29_10진수2진수로 {

@@ -1,3 +1,5 @@
+package JY;
+
 import java.util.Scanner;
 
 public class ex23_팩토리얼 {

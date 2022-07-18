@@ -1,3 +1,5 @@
+package JY;
+
 import java.util.Scanner;
 
 public class ex20_배열총점평균 {

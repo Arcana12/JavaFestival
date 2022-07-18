@@ -1,3 +1,5 @@
+package JY;
+
 
 public class ex31_계산기 {
 	public static void main(String[] args) {

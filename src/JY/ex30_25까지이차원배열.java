@@ -1,3 +1,5 @@
+package JY;
+
 import java.util.Scanner;
 
 public class ex30_25까지이차원배열 {
