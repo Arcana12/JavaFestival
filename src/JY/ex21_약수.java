@@ -1,3 +1,5 @@
+package JY;
+
 import java.util.Scanner;
 
 public class ex21_약수 {

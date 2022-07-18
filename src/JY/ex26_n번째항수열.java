@@ -1,3 +1,5 @@
+package JY;
+
 import java.util.Scanner;
 
 public class ex26_n번째항수열 {

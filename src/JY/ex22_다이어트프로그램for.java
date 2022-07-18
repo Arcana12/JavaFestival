@@ -1,3 +1,5 @@
+package JY;
+
 import java.util.Scanner;
 
 public class ex22_다이어트프로그램for {
