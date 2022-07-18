@@ -25,7 +25,6 @@ public class ex25_피보나치수열 {
 			//위치바꿔주기
 			a=b;
 			b=c;
-			
 		}
 		
 		return v;

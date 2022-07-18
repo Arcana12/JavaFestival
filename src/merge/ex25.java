@@ -1,4 +1,4 @@
-package DY;
+package merge;
 
 public class ex25 {
 	public static void main(String[] args) {
