@@ -3,7 +3,6 @@ package DI;
 public class ex19 {
 	public static void main(String[] args) {
 		
-		
 		int j=77;
 		int k=1;
 		

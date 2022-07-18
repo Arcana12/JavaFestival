@@ -1,4 +1,4 @@
-package DI;
+package merge;
 
 import java.util.Scanner;
 
