@@ -16,8 +16,9 @@ public class ex29_2진수전환 {
 			i++;
 			input/=2;
 		}
-		for(int s=i-1;s>=0;s--) {         // 십진수를 2로 나눈 나머지를 뒤에서부터 나열해야 2진수가 되므로
-		System.out.print(binery[s]+" ");
-		}
+//		for(int s=i-1;s>=0;s--) {         // 십진수를 2로 나눈 나머지를 뒤에서부터 나열해야 2진수가 되므로
+//		System.out.print(binery[s]+" ");
+//		}
+		
 	}
 }

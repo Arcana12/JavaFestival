@@ -1,10 +1,15 @@
 package SJ;
 
+import java.util.Scanner;
+
 public class ex07 {
 
 	public static void main(String[] args) {
 		//별찍기
-		for (int i = 7; i > 0; i--) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("행 개수 : ");
+		int num = sc.nextInt();
+		for (int i = num; i > 0; i--) {
 			for (int j = 0; j < i; j++) {
 				System.out.print("*");
 			}
