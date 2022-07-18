@@ -7,14 +7,27 @@ public class ex30 {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("정수 N을 입력해주세요 : ");
 		int input = sc.nextInt();
+		int count = 1;
+		int[][] arr = new int[input][input];
+
+		for (int i = 0; i < arr.length; i++) {
+			if (i % 2 == 0) {
+				for (int j = 0; j < arr[i].length; j++) {
+					arr[i][j] = count;
+					count++;
+				}
+			}
+			else {
+				for (int j = arr[i].length-1; j >= 0; j--) {
+					arr[i][j] = count;
+					count++;
+				}
+			}
+		}
 		
-		int[][] arr= new int[input][input];
-		
-		for(int i=0;i<arr.length;i++) {
-			for(int j=0;j<arr[i].length;j++) {
-				//index값은 0부터 시작하기 때문에 i에 1을 더해줌
-				//i의 값이 arr길이의 배수+1씩 증가하기 떄문에(1+i*arr.length)
-				System.out.print(1+i*arr.length+j+"\t");
+		for (int i = 0; i < arr.length; i++) {
+			for (int j = 0; j < arr[i].length; j++) {
+				System.out.print(arr[i][j] + "\t");
 			}
 			System.out.println();
 		}

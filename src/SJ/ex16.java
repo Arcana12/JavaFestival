@@ -12,7 +12,6 @@ public class ex16 {
 
 	public static void getperfectNumber(int n1, int n2) {
 		System.out.printf("%d~%d까지의 완전수 : ", n1, n2);
-
 		for (int j = n1; j <= n2; j++) { // 먼저 약수 구함
 			for (int i = 1; i <= n1; i++) {
 

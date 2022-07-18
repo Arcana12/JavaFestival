@@ -9,8 +9,6 @@ public class ex16 {
 		getPerfectNumber(startValue, endValue);
 		
 	}
-	
-	
 	//완전수는 자신을 제외한 약수를 더했을때 자기 자신이 되는 수를 의미
 	static void getPerfectNumber(int svalue, int evalue) {
 		//완전수를 구하기 위한 변수

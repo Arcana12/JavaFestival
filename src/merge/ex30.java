@@ -1,4 +1,4 @@
-package DY;
+package merge;
 
 import java.util.Scanner;
 
