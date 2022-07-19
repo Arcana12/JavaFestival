@@ -18,7 +18,7 @@ public class ex14 {
 		}
 		for(int j=0;j<n;j++) {  //2차배열 프린트
 			for(int i=0;i<n;i++) {
-				System.out.print(arrN[j][i]+" ");
+				System.out.print(arrN[j][i]+"\t");
 			}System.out.println();
 		}
 		

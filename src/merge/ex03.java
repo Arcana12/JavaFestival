@@ -10,7 +10,7 @@ public class ex03 {
 		System.out.print("배열에 있는 모든 값 : ");
 		//랜덤수로 초기화
 		for(int i=0; i<arr.length;i++) {
-			arr[i] = r.nextInt(98)+1;   //nextInt는 범위가0부터 ()안의 값까지 이기때문에 +1을 하여 1~99까지로 변경
+			arr[i] = r.nextInt(99)+1;   
 			System.out.print(arr[i]+" ");
 		}
 		System.out.println();

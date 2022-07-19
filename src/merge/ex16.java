@@ -13,7 +13,7 @@ public class ex16 {
 	static void getPerfectNumber(int svalue, int evalue) {
 		//완전수를 구하기 위한 변수
 		
-		System.out.println("2~1000까지의 완전수 : ");
+		System.out.print("2~1000까지의 완전수 : ");
 		int pnum = 0;
 		for(int i=svalue;i<=evalue;i++) {
 			for(int j=1; j<=i; j++) {
