@@ -1,4 +1,4 @@
-package JY;
+package merge;
 import java.util.Scanner;
 
 public class ex17_마트계산대 {
