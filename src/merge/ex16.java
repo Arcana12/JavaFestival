@@ -10,10 +10,10 @@ public class ex16 {
 		
 	}
 	//완전수는 자신을 제외한 약수를 더했을때 자기 자신이 되는 수를 의미
-	static void getPerfectNumber(int svalue, int evalue) {
+	public static void getPerfectNumber(int svalue, int evalue) {
 		//완전수를 구하기 위한 변수
 		
-		System.out.println("2~1000까지의 완전수 : ");
+		System.out.print("2~1000까지의 완전수 : ");
 		int pnum = 0;
 		for(int i=svalue;i<=evalue;i++) {
 			for(int j=1; j<=i; j++) {

@@ -2,7 +2,7 @@ package merge;
 
 public class ex08 {
 	public static void main(String[] args) {
-		int[] point = { 93, 32, 52, 9, 81, 2, 68 };
+		int[] point = { 92, 32, 52, 9, 81, 2, 68 };
 
 		//짧은 거리의 점의 index를 저장하기 위함
 		int index1 = 0;

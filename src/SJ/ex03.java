@@ -9,7 +9,7 @@ public class ex03 {
 		int[] array = new int[8];   // 8칸 크기 배열 선언
 		Random rd = new Random();    
 		for (int i = 0; i < array.length; i++) {
-			array[i] = rd.nextInt(98) + 1;   // 1~99 사이의 랜덤수로 초기화
+			array[i] = rd.nextInt(99) + 1;   // 1~99 사이의 랜덤수로 초기화
 		}
 		System.out.print("배열에 있는 모든 값 : ");
 		for (int a : array) {
